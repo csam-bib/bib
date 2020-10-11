@@ -1,5 +1,8 @@
 # Reports of Child Sexual Abuse Materials (CSAM) on Tor, Freenet, and i2P.
 
+1. [Academic Papers ](#academic-papers)
+1. [Government Reports](#government-reports)
+1. [Cases Involving Tor or Freenet](#cases-of-child-sexual-exploitation-involving-tor-or-freenet)
 
 
 **Bibtex file for these entries: [download csam.bib](https://raw.githubusercontent.com/csam-bib/csam-bib.github.io/gh-pages/csam.bib)**
@@ -64,6 +67,7 @@ Communications Security, November 2020. doi: 10.1145/3372297.3417876.
 
 ### Major Cases
 - Tor Hidden Service: [PedoBook, PedoBoard, and TB2](https://www.justice.gov/usao-ne/pr/new-york-man-sentenced-six-years-prison-receiving-and-accessing-child-pornography) (2015) 
+  - Cottom,  Defoggi, Flanary,  Cameron,  Austin, MacMillan, Peer,  Welch,  Huyck, Tidwell, Pierce, Spencer,  Diberardino,  Moore, Reibert, Smith,  Pitman,  Sebes.
 - Tor Hidden Service: [Playpen](https://www.justice.gov/opa/pr/kentucky-man-sentenced-prison-engaging-child-exploitation-enterprise) (2017)
 - Tor Hidden Service: [The Giftbox Exchange](https://www.justice.gov/usao-mdtn/pr/franklin-tennessee-man-and-three-others-sentenced-prison-engaging-global-child)  (2019) 
 - Tor Hidden Service: [Welcome to Video](https://www.justice.gov/opa/pr/south-korean-national-and-hundreds-others-charged-worldwide-takedown-largest-darknet-child) (2019) 
