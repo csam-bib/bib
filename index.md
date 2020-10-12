@@ -68,10 +68,17 @@ Communications Security, November 2020. doi: 10.1145/3372297.3417876.
 
 ### Major Cases
 - Tor Hidden Service: [PedoBook, PedoBoard, and TB2](https://www.justice.gov/usao-ne/pr/new-york-man-sentenced-six-years-prison-receiving-and-accessing-child-pornography) (2015) 
-  - Cottom,  Defoggi, Flanary,  Cameron,  Austin, MacMillan, Peer,  Welch,  Huyck, Tidwell, Pierce, Spencer,  Diberardino,  Moore, Reibert, Smith,  Pitman,  Sebes.
+  - Cottom (operator)
+  - Defoggi, Flanary,  Cameron,  Austin, MacMillan, Peer,  Welch,  Huyck, Tidwell, Pierce, Spencer,  Diberardino,  Moore, Reibert, Smith,  Pitman,  Sebes.
 - Tor Hidden Service: [Playpen](https://www.justice.gov/opa/pr/kentucky-man-sentenced-prison-engaging-child-exploitation-enterprise) (2017)
+  - More than 150,000 users who actively traded in CSAM.
+  - 548 international arrests, with 296 sexually abused children identified or rescued; 25 producers of child pornography prosecuted; 51 hands-on abusers prosecuted
 - Tor Hidden Service: [The Giftbox Exchange](https://www.justice.gov/usao-mdtn/pr/franklin-tennessee-man-and-three-others-sentenced-prison-engaging-global-child)  (2019) 
+  - Over 72,000 registered users and 56,000 posts. 
+  - Falte (sexual abuse of a toddler-aged minor), Faulkner (sexual abuse of a toddler-aged minor), Leslie (sexual abuse and production of child pornography involving multiple children, including an infant and a toddler), Bedusek (child exploitation enterprise); . 
 - Tor Hidden Service: [Welcome to Video](https://www.justice.gov/opa/pr/south-korean-national-and-hundreds-others-charged-worldwide-takedown-largest-darknet-child) (2019) 
+  - "Rescue of at least 23 minor victims residing in the United States, Spain and the United Kingdom, who were being actively abused by the users of the site." 
+  - Son (convicted in South Korea) and an "additional 337 site users residing in Alabama, Arkansas, California, Connecticut, Florida, Georgia, Kansas, Louisiana, Maryland, Massachusetts, Nebraska, New Jersey, New York, North Carolina, Ohio, Oregon, Pennsylvania, Rhode Island, South Carolina, Texas, Utah, Virginia, Washington State and Washington, D.C. as well as the United Kingdom, South Korea, Germany, Saudi Arabia, the United Arab Emirates, the Czech Republic, Canada, Ireland, Spain, Brazil and Australia have been arrested and charged."
 
 ### 2017
 - [FBI and the U.S. Attorney's Office Continue to Fight Against Child Pornography Five recent cases net the recovery of hundreds of thousands of child pornography images, some found in the possession of previously convicted sex offenders](https://www.justice.gov/usao-co/pr/fbi-and-us-attorneys-office-continue-fight-against-child-pornography)  (Reed) 
