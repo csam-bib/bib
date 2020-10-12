@@ -1,6 +1,6 @@
 ## This web page keeps track of academic papers, government reports, and criminal cases involving child sexual exploitation and Tor, Freenet, and i2P. 
 
-Please make use of these references in our next academic publication or new article. 
+Please make use of these references in your next academic publication or new article. 
 
 1. [Academic Papers ](#academic-papers)
 1. [Government Reports](#government-reports)
