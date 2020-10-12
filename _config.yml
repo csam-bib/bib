@@ -1,4 +1,4 @@
 theme: jekyll-theme-midnight
-show_downloads: ["false"]
-title: [Reports of CSAM on Darknets]
+show_downloads: false
+title: Reports of Child Sexual Abuse Materials (CSAM) on Tor, Freenet, and i2P
 description: []
