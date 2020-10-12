@@ -5,7 +5,7 @@
 1. [Cases Involving Tor or Freenet](#cases-of-child-sexual-exploitation-involving-tor-or-freenet)
 
 
-**Bibtex file for these entries: 
+**Bibtex file for these entries:** 
 <ul>
   <li class="downloads"><a href="https://raw.githubusercontent.com/csam-bib/csam-bib.github.io/gh-pages/csam.bib">csam.bib</a></li>
 </ul>
