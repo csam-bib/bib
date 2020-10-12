@@ -6,7 +6,6 @@ Please make use of these references in your next academic publication or new art
 1. [Government Reports](#government-reports)
 1. [Cases Involving Tor or Freenet](#cases-of-child-sexual-exploitation-involving-tor-or-freenet)
 
-<div
 **Bibtex file for these entries:** 
 <nav>
 <ul>
