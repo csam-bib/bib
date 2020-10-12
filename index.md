@@ -1,15 +1,18 @@
-# Reports of Child Sexual Abuse Materials (CSAM) on Tor, Freenet, and i2P.
+## This web page keeps track of academic papers, government reports, and criminal cases involving child sexual exploitation and Tor, Freenet, and i2P. 
+
+Please make use of these references in our next academic publication or new article. 
 
 1. [Academic Papers ](#academic-papers)
 1. [Government Reports](#government-reports)
 1. [Cases Involving Tor or Freenet](#cases-of-child-sexual-exploitation-involving-tor-or-freenet)
 
-
+<div
 **Bibtex file for these entries:** 
+<nav>
 <ul>
   <li class="downloads"><a href="https://raw.githubusercontent.com/csam-bib/csam-bib.github.io/gh-pages/csam.bib">csam.bib</a></li>
 </ul>
-
+</nav>
 
 ## Academic Papers 
 
