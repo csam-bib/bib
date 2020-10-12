@@ -1,4 +1,4 @@
 theme: jekyll-theme-midnight
-show_downloads: [false]
+show_downloads: ["false"]
 title: [Reports of CSAM on Darknets]
 description: []
