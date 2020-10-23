@@ -67,6 +67,9 @@ Communications Security, November 2020. doi: 10.1145/3372297.3417876.
 ## Cases of Child Sexual Exploitation Involving Tor or Freenet 
 
 ### Major Cases
+- Tor Hidden Services (two): [Operation Round Table](https://www.ice.gov/news/releases/operation-roundtable-ringleader-sentenced-21-years-after-investigation)  (more info)[https://www.ice.gov/news/releases/secretary-johnson-announces-results-operation-dismantled-underground-child] (2014).  The website shared webcam-captured videos of mostly juvenile boys falsely enticed by the operators of the site to produce sexually explicit material. 
+  - Johnson (operator)
+  -  Devor, Foster,  Gaw,  Gonzalez-Castillo, Jabbar, Jamieson, Korpal, Saine, Schwab, Zdon, Naim,Thong, Eales.
 - Tor Hidden Service: [PedoBook, PedoBoard, and TB2](https://www.justice.gov/usao-ne/pr/new-york-man-sentenced-six-years-prison-receiving-and-accessing-child-pornography) (2015) 
   - Cottom (operator)
   - Defoggi, Flanary,  Cameron,  Austin, MacMillan, Peer,  Welch,  Huyck, Tidwell, Pierce, Spencer,  Diberardino,  Moore, Reibert, Smith,  Pitman,  Sebes.
