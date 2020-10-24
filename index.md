@@ -35,7 +35,7 @@ Please make use of these references in your next academic publication or news ar
 
 - D. Moore and T. Rid. [Cryptopolitik and the Darknet](https://doi.org/10.1080/00396338.2016.1142085). Survival: Global Politics and Strategy.
 (10.1080/00396338.2016.1142085), 58(1):7–38, February 2016.
-- G. Owen and N. Savage. [Empirical analysis of Tor Hidden Services](https://digital-library.theiet.org/content/journals/10.1049/iet-ifs.2015.0121). IET Information Security, 10(3):113–118, May 2016. .
+- G. Owen and N. Savage. [Empirical analysis of Tor Hidden Services](https://digital-library.theiet.org/content/journals/10.1049/iet-ifs.2015.0121). IET Information Security, 10(3):113–118, May 2016.
 
 ### 2017 
 
