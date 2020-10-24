@@ -12,8 +12,9 @@ Please make use of these references in your next academic publication or news ar
 
 ### 2011
 
-- Aked, S. [An investigation into darknets and the content available via anonymous peer-to-peer file sharing](https://doi.org/10.4225/75/57b52857cd8b3). 
+- S. Aked. [An investigation into darknets and the content available via anonymous peer-to-peer file sharing](https://doi.org/10.4225/75/57b52857cd8b3). 
 9th Australian Information Security Management Conference, Edith Cowan University, Perth Western Australia. December 2011
+- Adrian Crenshaw. [Darknets and hidden servers: Identifying the true IP/network identity of I2P service hosts](http://www.irongeek.com/downloads/Identifying%20the%20true%20IP%20of%20I2P%20service%20hosts.pdf). Not a empirical study, stating only ``There is a fair amount of child pornography out on I2P."
 
 ### 2013
 
