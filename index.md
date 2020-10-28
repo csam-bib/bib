@@ -46,6 +46,8 @@ Please make use of these references in your next academic publication or news ar
 
 - J. Dalins, C. Wilson, and M. Carman. [Criminal motivation on the dark web: A categorisation model for law enforcement](http://www.sciencedirect.com/science/article/pii/S174228761730333X). Digital Investigation, 24:62–71, 2018.
 - G. Owenson, S. Cortes, and A. Lewman. [The darknet’s smaller than we thought: The life cycle of Tor Hidden Services](http://www.sciencedirect.com/science/article/pii/S1742287617303894). Digital Investigation (10.1016/j.diin.2018.09.005), 27:17–22, 2018.
+- R. Portnoff. [The Dark Net: De-Anonymization, Classification and Analysis](http://www2.eecs.berkeley.edu/Pubs/TechRpts/2018/EECS-2018-5.html). PhD thesis, Electrical Engineering and Computer Sciences, University of California at Berkeley, March 2018.
+
 
 ### 2019
 
@@ -83,6 +85,7 @@ Communications Security, November 2020. doi: 10.1145/3372297.3417876.
 - Tor Hidden Service: [Welcome to Video](https://www.justice.gov/opa/pr/south-korean-national-and-hundreds-others-charged-worldwide-takedown-largest-darknet-child) (2019) 
   - "Rescue of at least 23 minor victims residing in the United States, Spain and the United Kingdom, who were being actively abused by the users of the site." 
   - Son (convicted in South Korea) and an "additional 337 site users residing in Alabama, Arkansas, California, Connecticut, Florida, Georgia, Kansas, Louisiana, Maryland, Massachusetts, Nebraska, New Jersey, New York, North Carolina, Ohio, Oregon, Pennsylvania, Rhode Island, South Carolina, Texas, Utah, Virginia, Washington State and Washington, D.C. as well as the United Kingdom, South Korea, Germany, Saudi Arabia, the United Arab Emirates, the Czech Republic, Canada, Ireland, Spain, Brazil and Australia have been arrested and charged."
+- Tor Hidden Service: [Elysium](https://www.bbc.com/news/world-europe-40517193) 89,000 members
 
 ### 2017
 - [FBI and the U.S. Attorney's Office Continue to Fight Against Child Pornography Five recent cases net the recovery of hundreds of thousands of child pornography images, some found in the possession of previously convicted sex offenders](https://www.justice.gov/usao-co/pr/fbi-and-us-attorneys-office-continue-fight-against-child-pornography)  (Reed) 
