@@ -96,6 +96,8 @@ Communications Security, November 2020. doi: 10.1145/3372297.3417876.
 - [Anchorage Man Sentenced for Child Pornography Crimes](https://www.justice.gov/usao-ak/pr/anchorage-man-sentenced-child-pornography-crimes-0) (Cogley) 
 - [Virginia Man Sentenced to Five Years in Prison for Receiving Child Pornography on Tor Network Forum](https://www.justice.gov/opa/pr/virginia-man-sentenced-five-years-prison-receiving-child-pornography-tor-network-forum) (Bosyk) 
 - [Dyer Man Sentenced To 150 Months in Prison For Accessing Child Pornography](https://www.justice.gov/usao-ndin/pr/dyer-man-sentenced-150-months-prison) (Struensee) 
+- [Crossett Man Sentenced To 6 Years In Federal Prison For Receiving And Possession Of Child Pornography (Freenet)] (https://www.justice.gov/usao-wdar/pr/crossett-man-sentenced-6-years-federal-prison-receiving-and-possession-child)
+[Reisterstown Man Sentenced to 25 Years in Federal Prison for Traveling to the Philippines to Have Sex With a Minor, Which he Videotaped and Transported Back to the United States (Freenet)](https://www.justice.gov/usao-md/pr/reisterstown-man-sentenced-25-years-federal-prison-traveling-philippines-have-sex-minor)
 
 ### 2019
 - [Texas Man Pleads Guilty to Child Exploitation Violations](https://www.justice.gov/opa/pr/texas-man-pleads-guilty-child-exploitation-violations) (Barter) 
@@ -108,3 +110,4 @@ Communications Security, November 2020. doi: 10.1145/3372297.3417876.
 - [Baltimore Police Officer Pleads Guilty to Federal Charge of Possession of Child Pornography Also Admitted that he Viewed and Shared Child Pornography, and Discussed the Sexual Exploitation of Children on Various Online Services and Applications](https://www.justice.gov/usao-md/pr/baltimore-police-officer-pleads-guilty-federal-charge-possession-child-pornography) (Wissmann) 
 - [Little Sioux Man Sentenced to 200 months in Prison for Child Pornography](https://www.justice.gov/usao-sdia/pr/little-sioux-man-sentenced-200-months-prison-child-pornography) (Wickett) 
 - [Richland County Boy Scout official sentenced to 30 years of prison for sexually exploiting children as well as receiving and distributing child pornography ](https://www.justice.gov/usao-ndoh/pr/richland-county-boy-scout-official-sentenced-30-years-prison-sexually-exploiting) (Close) 
+- [US v. Wehrle (Freenet)](https://cases.justia.com/federal/appellate-courts/ca7/19-2853/19-2853-2021-01-15.pdf?ts=1610733627) 
