@@ -66,6 +66,9 @@ Communications Security, November 2020. doi: 10.1145/3372297.3417876.
 - European Union Agency for Law Enforcement Cooperation. [Internet Organised Crime Threat Assessment](https://op.europa.eu/en/publication-detail/-/publication/d7582d31-1b04-11e98d04-01aa75ed71a1/language-en/format-PDF/source-88547505) Technical Report (10.2813/858843), Europol, 2018.
 -  U.S. Dept. of Justice. [The National Strategy for Child Exploitation Prevention and Interdiction: A Report to Congress](http://www.projectsafechildhood.gov/docs/natstrategyreport.pdf), August 2010.
 - U.S. Dept. of Justice. [The National Strategy for Child Exploitation Prevention and Interdiction: A Report to Congress](https://www.justice.gov/psc/file/842411/download), April 2016.
+- Brian Levine, [Report to Congress: Increasing the Efficacy of Investigations of Online Child Sexual Exploitation](https://www.ojp.gov/library/publications/increasing-efficacy-investigations-online-child-sexual-exploitation-report).  May 2022. On behalf of the National Institute of Justice, as required by the PROTECT Act of 2008.
+
+
 
 ## Cases of Child Sexual Exploitation Involving Tor or Freenet 
 
@@ -89,6 +92,7 @@ Communications Security, November 2020. doi: 10.1145/3372297.3417876.
 
 ### 2017
 - [FBI and the U.S. Attorney's Office Continue to Fight Against Child Pornography Five recent cases net the recovery of hundreds of thousands of child pornography images, some found in the possession of previously convicted sex offenders](https://www.justice.gov/usao-co/pr/fbi-and-us-attorneys-office-continue-fight-against-child-pornography)  (Reed) 
+- [Kentucky Man Sentenced to Prison For Engaging in a Child Exploitation Enterprise](https://www.justice.gov/opa/pr/kentucky-man-sentenced-prison-engaging-child-exploitation-enterprise) (Browning)
 
 ### 2018
 - [Colorado Man Sentenced For Production Of Child Pornography](https://www.justice.gov/usao-co/pr/coloado-man-sentenced-production-child-pornography) (Perez)
@@ -104,6 +108,8 @@ Communications Security, November 2020. doi: 10.1145/3372297.3417876.
 - [Air Force Colonel Pleads Guilty to Receiving Child Pornography](https://www.justice.gov/usao-edva/pr/air-force-colonel-pleads-guilty-receiving-child-pornography-0) (Visconi) 
 - [Former Employee of D.C. School Admits to Transporting Child Pornography Across State Lines and Accessing it Over the Dark Web](https://www.justice.gov/opa/pr/former-employee-dc-school-admits-transporting-child-pornography-across-state-lines-and) (Wilson) 
 
+
+
 ### 2020
 - [Argentine Citizen Sentenced To 35 Years In Prison For Child Sexual Exploitation And Distribution Of Child Pornography Over The Dark Web](https://www.justice.gov/usao-nv/pr/argentine-citizen-sentenced-35-years-prison-child-sexual-exploitation-and-distribution) (Viola)
 - [Dark Web Child Pornography Facilitator Pleads Guilty to Conspiracy to Advertise Child Pornography Hosting Service Contained Over 8.5 Million Images of Child Exploitation Material](https://www.justice.gov/opa/pr/dark-web-child-pornography-facilitator-pleads-guilty-conspiracy-advertise-child-pornography) (Marques)
@@ -111,3 +117,15 @@ Communications Security, November 2020. doi: 10.1145/3372297.3417876.
 - [Little Sioux Man Sentenced to 200 months in Prison for Child Pornography](https://www.justice.gov/usao-sdia/pr/little-sioux-man-sentenced-200-months-prison-child-pornography) (Wickett) 
 - [Richland County Boy Scout official sentenced to 30 years of prison for sexually exploiting children as well as receiving and distributing child pornography ](https://www.justice.gov/usao-ndoh/pr/richland-county-boy-scout-official-sentenced-30-years-prison-sexually-exploiting) (Close) 
 - [US v. Wehrle (Freenet)](https://cases.justia.com/federal/appellate-courts/ca7/19-2853/19-2853-2021-01-15.pdf?ts=1610733627) 
+- [Four Men Sentenced to Prison for Engaging in a Child Exploitation Enterprise on the Tor Network](https://www.justice.gov/opa/pr/four-men-sentenced-prison-engaging-child-exploitation-enterprise-tor-network) (Falte, Faulkner, Bedusek,Leslie)
+
+
+### 2021 
+- [Man Sentenced to 45 Years in Federal Prison for Sexual Abuse of Two- and Seven-Year-Old Children to Produce Child Pornography](https://www.justice.gov/opa/pr/man-sentenced-45-years-federal-prison-sexual-abuse-two-and-seven-year-old-children-produce) (Gilbert)
+
+
+
+### 2022
+- [Fresno Man Sentenced to Life in Prison for Engaging in a Child Exploitation Enterprise and Creating Child Sexual Abuse Material](https://www.justice.gov/usao-cdca/pr/fresno-man-sentenced-life-prison-engaging-child-exploitation-enterprise-and-creating) (Brinson)
+- [South Bay Man Sentenced to Life in Prison for Creating Child Sexual Abuse Material of Young Children and Engaging in a Child Exploitation Enterprise](https://www.justice.gov/usao-cdca/pr/south-bay-man-sentenced-life-prison-creating-child-sexual-abuse-material-young-children) (Harrell, Martinez, Lawniczak)
+- [https://www.justice.gov/usao-ct/pr/former-morris-resident-pleads-guilty-child-exploitation-offense](https://www.justice.gov/usao-ct/pr/former-morris-resident-pleads-guilty-child-exploitation-offense) (Curley)
